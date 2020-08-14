@@ -1,0 +1,5 @@
+package baitapT3H;
+
+public interface IClient {
+
+}
